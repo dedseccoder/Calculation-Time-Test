@@ -1,0 +1,3 @@
+﻿  Time Speed Test.cpp
+C:\Users\Admin\source\repos\C++\Time Speed Test\Time Speed Test\Time Speed Test.cpp(24,17): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  Time Speed Test.vcxproj -> C:\Users\Admin\source\repos\C++\Time Speed Test\Debug\Time Speed Test.exe
